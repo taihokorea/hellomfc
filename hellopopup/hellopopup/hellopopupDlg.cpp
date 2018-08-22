@@ -48,6 +48,7 @@ END_MESSAGE_MAP()
 // ChellopopupDlg dialog
 
 const CString newguyname = L"New Guy";
+const CString oldmanname = L"Old Man";
 
 ChellopopupDlg::ChellopopupDlg(CWnd* pParent /*=NULL*/)
 	: CDialogEx(IDD_HELLOPOPUP_DIALOG, pParent)
